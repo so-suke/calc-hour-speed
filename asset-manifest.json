@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calc-hour-speed/static/css/main.de95aa4e.chunk.css",
+    "main.js": "/calc-hour-speed/static/js/main.fe3c0d89.chunk.js",
+    "main.js.map": "/calc-hour-speed/static/js/main.fe3c0d89.chunk.js.map",
+    "runtime-main.js": "/calc-hour-speed/static/js/runtime-main.e1c4948b.js",
+    "runtime-main.js.map": "/calc-hour-speed/static/js/runtime-main.e1c4948b.js.map",
+    "static/js/2.20a161de.chunk.js": "/calc-hour-speed/static/js/2.20a161de.chunk.js",
+    "static/js/2.20a161de.chunk.js.map": "/calc-hour-speed/static/js/2.20a161de.chunk.js.map",
+    "static/js/3.773d7685.chunk.js": "/calc-hour-speed/static/js/3.773d7685.chunk.js",
+    "static/js/3.773d7685.chunk.js.map": "/calc-hour-speed/static/js/3.773d7685.chunk.js.map",
+    "index.html": "/calc-hour-speed/index.html",
+    "static/css/main.de95aa4e.chunk.css.map": "/calc-hour-speed/static/css/main.de95aa4e.chunk.css.map",
+    "static/js/2.20a161de.chunk.js.LICENSE.txt": "/calc-hour-speed/static/js/2.20a161de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c4948b.js",
+    "static/js/2.20a161de.chunk.js",
+    "static/css/main.de95aa4e.chunk.css",
+    "static/js/main.fe3c0d89.chunk.js"
+  ]
+}
