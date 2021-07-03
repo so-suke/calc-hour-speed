@@ -73,8 +73,12 @@ function App() {
       </button>
 
       <div className="display">
-        <p>経過時間{elapsedMinutes}分</p>
-        <p>時速{rotateNumberPerHour}回転</p>
+        <span>経過時間</span>
+        <span className="number">{elapsedMinutes}</span>
+        <span>分</span>
+        <span>時速</span>
+        <span className="number">{rotateNumberPerHour}</span>
+        <span>回転</span>
       </div>
     </div>
   );
